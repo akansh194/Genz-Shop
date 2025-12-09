@@ -1,6 +1,6 @@
 git add mern-ecommerce package.json package-lock.json
 git commit -m "Add MERN ecommerce project"node_modules/
-.env
+/server/.env
 .env.local
 .DS_Store
 *.log
